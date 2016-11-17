@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'sinatra'
-gem 'recaptcha', require: 'recaptcha/rails'
+gem 'recaptcha', '~> 4', require: 'recaptcha/rails'
